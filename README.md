@@ -48,4 +48,4 @@ node app.js
 Якщо на якомусь етапі виникне помилка, програма перейде в блок `.catch()` і покаже повідомлення про помилку.
 
 Блок `.finally()` виконується завжди.
-https://drive.google.com/file/d/1G0M3dD5uWgECGmWxqWlhDFlKRyG7yOLV/view?usp=drive_link
+https://drive.google.com/file/d/1FABfEGoKBJn-zDEn86bFEKCYdLwcBW9C/view?usp=sharing
