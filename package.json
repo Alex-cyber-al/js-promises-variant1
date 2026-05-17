@@ -1,0 +1,11 @@
+{
+  "name": "js-promises-variant1",
+  "version": "1.0.0",
+  "description": "Практична робота 10.1: Promises та ланцюжки промісів. Варіант 1.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
